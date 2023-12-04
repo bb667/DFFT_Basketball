@@ -15,7 +15,8 @@ single_positions_locs_SSAC represents a column indicating [Ox1, ..., Ox5, Oy1, .
 Note that when going from individual positions to the overall density of the offense or defense to the integer forms found in mat_{o,d}_R{0,3}), the procedure is sum over all players of that type, set the upper limit of the density to 0.5, and applying the floor division '//' by 0.02. This was simply to discritize the densities to possible 25 values, which was used in the abstract.
 
 
-The following is regarding files used in the paper submission
+The following is regarding files used in the paper submission:
+
 data_R{Shot Result}_reduced represents data with the corresponding shot result (0, 2, 3). It contains the following ['O1x', 'O1y', 'O2x', 'O2y', 'O3x', 'O3y', 'O4x', 'O4y', 'O5x', 'O5y', 'O1p', 'O2p', 'O3p', 'O4p', 'O5p', 'D1x', 'D1y', 'D2x',
 'D2y', 'D3x', 'D3y', 'D4x', 'D4y', 'D5x', 'D5y', 'D1p', 'D2p', 'D3p','D4p', 'D5p', 'Bx', 'By', 'Tshot']. Note that the x values go from -25 to 25 and the y values goes from 0 to 50, for the half-court to be taken to be 50 feet by 50 feet.
 
