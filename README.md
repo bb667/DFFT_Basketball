@@ -1,5 +1,5 @@
 # DFFT_Basketball
-Reduced Synergy NBA tracking data for SSAC
+NBA tracking data for SSAC
 
 The following is regarding files used in the abstract:
 
