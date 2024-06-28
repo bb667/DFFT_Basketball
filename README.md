@@ -1,5 +1,5 @@
 # DFFT_Basketball
-DFFT NBA tracking data
+DFFT NBA tracking data. Both for abstract using for MIT SSAC 2024 and subsequent paper.
 
 The following is regarding files used in the abstract SSAC:
 
